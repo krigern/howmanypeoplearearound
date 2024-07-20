@@ -20,7 +20,7 @@ For a video walkthrough on how to install, checkout [PNPtutorials](https://youtu
 
 ## Dependencies
 
-Python 2.7 or preferably Python 3 must be installed on your machine with the `pip` command also available.
+Python 2.7 or preferably Python 3 must be installed on your machine with the `pipj` command also available.
 ```
   python -V
   pip -V
